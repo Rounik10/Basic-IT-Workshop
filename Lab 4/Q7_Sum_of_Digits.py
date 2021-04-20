@@ -1,0 +1,1 @@
+print('Sum of it\'s digts is:', sum(map(int,(input('Enter a number: ')))))
